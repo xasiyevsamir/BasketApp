@@ -6,3 +6,4 @@ Serveri ishletmek uchun terminala ashagidaki kodu yazin:
 `npm i`  <br /> <br />
 `npm start` <br />
 
+Cors error alsaz server-in icindeki index.js-de cors yazilan url-i oz client portunuza deyishin.Meselen 5501-> 5500
